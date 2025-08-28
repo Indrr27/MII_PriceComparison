@@ -1,0 +1,471 @@
+{
+  "categories": [
+    {
+      "type": "spice",
+      "subtype": "hot_spice",
+      "keywords": ["chili", "red chili", "kashmiri chili", "cayenne", "paprika"],
+      "description": "Hot/pungent spices"
+    },
+    {
+      "type": "spice",
+      "subtype": "aromatic_spice",
+      "keywords": ["cumin", "coriander", "fennel", "ajwain", "nigella"],
+      "description": "Aromatic seed spices"
+    },
+    {
+      "type": "spice",
+      "subtype": "sour_spice",
+      "keywords": ["amchur", "dried mango", "anardana", "pomegranate", "tamarind"],
+      "description": "Souring agents - NOT interchangeable with other spices"
+    },
+    {
+      "type": "spice",
+      "subtype": "coloring_spice",
+      "keywords": ["turmeric", "haldi", "saffron", "kesar"],
+      "description": "Spices primarily for color"
+    },
+    {
+      "type": "spice",
+      "subtype": "mixed_spice",
+      "keywords": ["coriander cumin", "dhania jeera", "mixed spice"],
+      "description": "Pre-mixed spice combinations"
+    },
+    {
+      "type": "baking",
+      "subtype": "leavening_agent",
+      "keywords": ["baking powder", "baking soda", "yeast", "eno"],
+      "description": "Baking leavening agents"
+    },
+    {
+      "type": "baking",
+      "subtype": "baking_mix",
+      "keywords": ["cake mix", "brownie mix", "muffin mix"],
+      "description": "Pre-made baking mixes"
+    },
+    {
+      "type": "masala",
+      "subtype": "meat_masala",
+      "keywords": ["chicken masala", "mutton masala", "meat masala", "keema masala", "tandoori chicken", "nihari masala", "laal maans", "paya masala"],
+      "description": "Robust blends for meat dishes with bold spices"
+    },
+    {
+      "type": "masala",
+      "subtype": "vegetarian_masala",
+      "keywords": ["chana masala", "chole masala", "sabzi masala", "bhindi masala"],
+      "description": "Vegetarian dish masalas"
+    },
+    {
+      "type": "masala",
+      "subtype": "chaat_masala",
+      "keywords": ["chaat masala", "chat masala", "pani puri masala"],
+      "description": "Street food/snack masalas"
+    },
+    {
+      "type": "flour",
+      "subtype": "wheat_based",
+      "keywords": ["wheat flour", "atta", "maida", "bhakri flour", "all purpose flour", "multigrain atta"],
+      "description": "Gluten-containing wheat flours for breads and rotis"
+    },
+    {
+      "type": "flour",
+      "subtype": "legume_flour",
+      "keywords": ["urad flour", "udad flour", "moong flour", "besan", "chickpea flour", "gram flour", "chick pea flour"],
+      "description": "Gluten-free legume flours for batters and snacks"
+    },
+    {
+      "type": "flour",
+      "subtype": "millet_based",
+      "keywords": ["bajra", "jowar", "ragi", "finger millet", "bajra flour", "jowar flour", "ragi flour", "juwar flour"],
+      "description": "Gluten-free millet flours for flatbreads and porridges"
+    },
+    {
+      "type": "flour",
+      "subtype": "mix_flour",
+      "keywords": ["dhokla flour", "dosa mix", "idli mix"],
+      "description": "Pre-mixed specialty flours"
+    },
+    {
+      "type": "coconut",
+      "subtype": "coconut_powder",
+      "keywords": ["coconut powder", "desiccated coconut", "coconut flakes"],
+      "description": "Dried coconut products - NOT curry powder"
+    },
+    {
+      "type": "snack",
+      "subtype": "khakhara",
+      "keywords": ["khakhara", "khakhra", "methi khakhara"],
+      "description": "Crispy flatbread snacks"
+    },
+    {
+      "type": "snack",
+      "subtype": "bakery_snack",
+      "keywords": ["khari", "jeera khari", "puff", "toast"],
+      "description": "Bakery items - NOT vegetables"
+    },
+    {
+      "type": "snack",
+      "subtype": "fried_snack",
+      "keywords": ["murukku", "chakli", "sev", "bhujia", "mixture", "namkeen", "mathri", "khakhra"],
+      "description": "Fried savory snacks"
+    },
+    {
+      "type": "frozen",
+      "subtype": "frozen_vegetable",
+      "keywords": ["frozen okra", "frozen bhindi", "frozen suran", "frozen papdi", "frozen peas", "frozen corn", "frozen spinach"],
+      "description": "Frozen vegetables"
+    },
+    {
+      "type": "frozen",
+      "subtype": "frozen_prepared",
+      "keywords": ["malai kofta", "palak paneer", "frozen curry"],
+      "description": "Prepared frozen meals"
+    },
+    {
+      "type": "frozen",
+      "subtype": "frozen_bread",
+      "keywords": ["frozen paratha", "frozen naan", "frozen roti"],
+      "description": "Frozen breads"
+    },
+    {
+      "type": "frozen",
+      "subtype": "chopped_frozen",
+      "keywords": ["chopped methi", "chopped spinach", "cut vegetables"],
+      "description": "Pre-chopped frozen vegetables"
+    },
+    {
+      "type": "fruit",
+      "subtype": "green_mango",
+      "keywords": ["green mango", "raw mango", "kairi", "unripe mango"],
+      "description": "Unripe mangoes for pickle/chutney"
+    },
+    {
+      "type": "fruit",
+      "subtype": "ripe_mango",
+      "keywords": ["sweet mango", "alphonso", "kesar mango", "mango pulp"],
+      "description": "Ripe sweet mangoes"
+    },
+    {
+      "type": "state",
+      "subtype": "raw",
+      "keywords": ["raw", "uncooked", "fresh", "whole"],
+      "description": "Raw ingredients"
+    },
+    {
+      "type": "state",
+      "subtype": "prepared",
+      "keywords": ["ready to eat", "cooked", "instant", "prepared"],
+      "description": "Prepared/ready products"
+    },
+    {
+      "type": "state",
+      "subtype": "dried",
+      "keywords": ["dried", "dehydrated", "sun dried"],
+      "description": "Dried products"
+    },
+    {
+      "type": "spice",
+      "subtype": "medicinal_powder",
+      "keywords": ["neem powder", "amla powder", "brahmi powder", "ashwagandha powder", "triphala powder", "shikakai powder", "tulsi powder"],
+      "description": "Ayurvedic/medicinal powders not for cooking"
+    },
+    {
+      "type": "masala",
+      "subtype": "warm_masala",
+      "keywords": ["garam masala", "punjabi garam", "kitchen king", "tandoori masala", "keema masala"],
+      "description": "Warm, aromatic spice blends with cinnamon, cloves for general curries"
+    },
+    {
+      "type": "masala",
+      "subtype": "tangy_masala",
+      "keywords": ["chana masala", "chole masala", "chat masala", "pani puri masala", "amchur blend"],
+      "description": "Tangy blends with amchur, coriander for snacks and legume dishes"
+    },
+    {
+      "type": "masala",
+      "subtype": "seafood_masala",
+      "keywords": ["fish curry", "fish masala", "prawn masala", "bhuni kaleji"],
+      "description": "Coastal spice blends for seafood with tamarind or coconut notes"
+    },
+    {
+      "type": "masala",
+      "subtype": "rice_masala",
+      "keywords": ["biryani masala", "pulao masala", "hyderabadi biryani", "dabeli masala"],
+      "description": "Aromatic blends for rice dishes with saffron or cardamom"
+    },
+    {
+      "type": "masala",
+      "subtype": "south_indian_masala",
+      "keywords": ["sambar powder", "rasam powder", "idli podi", "vangi bath"],
+      "description": "Tangy, lentil-based blends for South Indian curries and powders"
+    },
+    {
+      "type": "masala",
+      "subtype": "north_indian_masala",
+      "keywords": ["pav bhaji masala", "rajma masala", "shahi paneer", "butter chicken"],
+      "description": "Rich blends for North Indian vegetable and paneer dishes"
+    },
+    {
+      "type": "flour",
+      "subtype": "rice_flour",
+      "keywords": ["rice flour", "rice powder", "idli rice flour"],
+      "description": "Gluten-free rice flour for batters and desserts"
+    },
+    {
+      "type": "flour",
+      "subtype": "nut_flour",
+      "keywords": ["almond flour", "coconut flour", "peanut flour"],
+      "description": "Gluten-free nut-based flours for baking"
+    },
+    {
+      "type": "dal",
+      "subtype": "whole_dal",
+      "keywords": ["whole moong", "whole urad", "whole masoor", "sabut", "whole toor"],
+      "description": "Whole lentils requiring soaking, high fiber"
+    },
+    {
+      "type": "dal",
+      "subtype": "split_dal",
+      "keywords": ["split", "dal", "toor dal", "moong dal", "chana dal", "chilka dal"],
+      "description": "Split lentils for quicker cooking"
+    },
+    {
+      "type": "dal",
+      "subtype": "hulled_dal",
+      "keywords": ["washed dal", "dhuli dal", "skinless dal", "hulled lentils"],
+      "description": "Hulled/skinless lentils for smooth textures"
+    },
+    {
+      "type": "rice",
+      "subtype": "long_grain_rice",
+      "keywords": ["basmati rice", "jasmine rice", "sona masoori"],
+      "description": "Long-grain rices that stay fluffy when cooked"
+    },
+    {
+      "type": "rice",
+      "subtype": "short_grain_rice",
+      "keywords": ["idli rice", "matta rice", "ponni rice"],
+      "description": "Short-grain rices for batters or sticky dishes"
+    },
+    {
+      "type": "rice",
+      "subtype": "brown_rice",
+      "keywords": ["brown rice", "unpolished rice", "brown basmati"],
+      "description": "Whole grain rices with bran layer"
+    },
+    {
+      "type": "rice",
+      "subtype": "processed_rice",
+      "keywords": ["puffed rice", "mamra", "poha", "flattened rice"],
+      "description": "Processed or puffed rices for snacks"
+    },
+    {
+      "type": "oil",
+      "subtype": "cooking_oil",
+      "keywords": ["mustard oil", "sesame oil", "coconut oil", "sunflower oil", "olive oil"],
+      "description": "Edible oils for cooking and frying"
+    },
+    {
+      "type": "oil",
+      "subtype": "cosmetic_oil",
+      "keywords": ["hair oil", "body oil", "parachute oil", "almond oil"],
+      "description": "Oils for hair and skin care"
+    },
+    {
+      "type": "oil",
+      "subtype": "medicinal_oil",
+      "keywords": ["kalonji oil", "neem oil", "castor oil", "essential oil"],
+      "description": "Oils with health or ayurvedic benefits"
+    },
+    {
+      "type": "spice",
+      "subtype": "whole_spice",
+      "keywords": ["whole", "seeds", "sabut", "cumin seeds", "coriander seeds", "cloves whole"],
+      "description": "Whole spices and seeds for tempering"
+    },
+    {
+      "type": "spice",
+      "subtype": "ground_spice",
+      "keywords": ["powder", "ground", "turmeric powder", "chili powder", "cumin powder"],
+      "description": "Ground single spices for direct use"
+    },
+    {
+      "type": "snack",
+      "subtype": "sweet_snack",
+      "keywords": ["laddu", "barfi", "halwa", "mithai", "gulab jamun", "rasgulla"],
+      "description": "Traditional Indian sweets"
+    },
+    {
+      "type": "snack",
+      "subtype": "puffed_snack",
+      "keywords": ["puffed rice", "mamra", "kurmura", "muri", "makhana roasted"],
+      "description": "Puffed or roasted grain snacks"
+    },
+    {
+      "type": "pickle",
+      "subtype": "oil_pickle",
+      "keywords": ["pickle", "achar", "oil pickle", "mango pickle", "lime pickle"],
+      "description": "Oil-preserved pickles"
+    },
+    {
+      "type": "pickle",
+      "subtype": "sweet_pickle",
+      "keywords": ["murabba", "sweet pickle", "chutney", "sweet mango chutney"],
+      "description": "Sweet preserved items"
+    },
+    {
+      "type": "tea",
+      "subtype": "loose_tea",
+      "keywords": ["tea leaves", "loose tea", "chai patti", "assam tea"],
+      "description": "Loose tea leaves"
+    },
+    {
+      "type": "tea",
+      "subtype": "tea_bags",
+      "keywords": ["tea bags", "tea bag", "green tea bags"],
+      "description": "Pre-packaged tea bags"
+    },
+    {
+      "type": "salt",
+      "subtype": "rock_salt",
+      "keywords": ["rock salt", "sendha namak", "sindhav", "himalayan salt", "pink salt"],
+      "description": "Unrefined rock salts"
+    },
+    {
+      "type": "salt",
+      "subtype": "table_salt",
+      "keywords": ["table salt", "iodized salt", "refined salt", "sea salt"],
+      "description": "Refined table salt"
+    },
+    {
+      "type": "salt",
+      "subtype": "black_salt",
+      "keywords": ["black salt", "kala namak", "sanchal"],
+      "description": "Sulfurous black salt"
+    },
+    {
+      "type": "beverage",
+      "subtype": "juice",
+      "keywords": ["juice", "nectar", "mango drink", "lassi", "buttermilk", "aam panna"],
+      "description": "Fruit juices and dairy drinks"
+    },
+    {
+      "type": "beverage",
+      "subtype": "tea_coffee",
+      "keywords": ["tea", "coffee", "chai", "instant coffee", "masala chai"],
+      "description": "Tea and coffee products"
+    },
+    {
+      "type": "dairy",
+      "subtype": "milk_product",
+      "keywords": ["milk", "condensed milk", "milk powder", "khoya", "rabri"],
+      "description": "Milk-based products"
+    },
+    {
+      "type": "dairy",
+      "subtype": "cheese",
+      "keywords": ["paneer", "cheese", "cottage cheese", "malai paneer"],
+      "description": "Cheese and paneer"
+    },
+    {
+      "type": "dairy",
+      "subtype": "butter_ghee",
+      "keywords": ["butter", "ghee", "clarified butter", "makhani"],
+      "description": "Butter and ghee"
+    },
+    {
+      "type": "dairy",
+      "subtype": "yogurt",
+      "keywords": ["yogurt", "curd", "dahi", "raita mix", "lassi base"],
+      "description": "Yogurt and curd products"
+    },
+    {
+      "type": "frozen",
+      "subtype": "frozen_snack",
+      "keywords": ["frozen paratha", "frozen samosa", "frozen pakora", "frozen kachori"],
+      "description": "Frozen ready-to-fry snacks"
+    },
+    {
+      "type": "frozen",
+      "subtype": "frozen_fruit",
+      "keywords": ["frozen mango", "frozen jamun", "frozen chikoo"],
+      "description": "Frozen fruits and pulps"
+    },
+    {
+      "type": "produce",
+      "subtype": "fresh_vegetable",
+      "keywords": ["onion", "potato", "tomato", "ginger", "garlic", "chili", "methi", "spinach"],
+      "description": "Fresh vegetables"
+    },
+    {
+      "type": "produce",
+      "subtype": "fresh_fruit",
+      "keywords": ["mango", "banana", "papaya", "guava", "lychee", "coconut"],
+      "description": "Fresh fruits"
+    },
+    {
+      "type": "pooja_item",
+      "subtype": "incense",
+      "keywords": ["agarbatti", "dhoop", "sambrani", "incense sticks"],
+      "description": "Incense and dhoop"
+    },
+    {
+      "type": "pooja_item",
+      "subtype": "ritual_item",
+      "keywords": ["kumkum", "sindoor", "haldi", "chandan", "kapoor", "camphor"],
+      "description": "Ritual powders and items"
+    },
+    {
+      "type": "spice",
+      "subtype": "cooking_spice",
+      "keywords": ["curry powder", "chili powder", "garam masala", "turmeric powder", "cumin powder", "coriander powder"],
+      "description": "Culinary spices for cooking"
+    },
+    {
+      "type": "spice",
+      "subtype": "specific_spice",
+      "keywords": ["amchur powder", "asafoetida", "fenugreek powder", "mustard powder"],
+      "description": "Specific single spices with unique flavors"
+    },
+    {
+      "type": "spice",
+      "subtype": "spice_blend",
+      "keywords": ["curry powder", "garam masala", "chana masala", "biryani masala"],
+      "description": "Mixed spice blends"
+    },
+    {
+      "type": "flour",
+      "subtype": "barley_flour",
+      "keywords": ["barley flour", "barley powder"],
+      "description": "Barley-based flour"
+    },
+    {
+      "type": "flour",
+      "subtype": "oat_flour",
+      "keywords": ["oat flour", "oats flour"],
+      "description": "Oat-based flour"
+    }
+  ],
+  "matching_rules": {
+    "strict_category_matching": [
+      "baking",
+      "spice:sour_spice",
+      "masala:meat_masala",
+      "flour:wheat_based",
+      "flour:lentil_based",
+      "snack:khakhara",
+      "snack:bakery_snack",
+      "frozen:frozen_vegetable",
+      "frozen:frozen_prepared",
+      "fruit:green_mango",
+      "fruit:ripe_mango"
+    ],
+    "incompatible_categories": [
+      ["baking", "spice"],
+      ["coconut", "masala"],
+      ["snack:bakery_snack", "frozen:frozen_vegetable"],
+      ["snack:khakhara", "frozen:chopped_frozen"],
+      ["fruit:green_mango", "fruit:ripe_mango"],
+      ["state:raw", "state:prepared"]
+    ]
+  }
+}

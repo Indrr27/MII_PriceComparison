@@ -1,0 +1,408 @@
+{
+  "groups": [
+    {
+      "canonical": "besan",
+      "terms": ["chickpea flour", "gram flour", "chana flour", "garbanzo flour", "chick pea flour", "kadalai mavu"]
+    },
+    {
+      "canonical": "atta",
+      "terms": ["whole wheat flour", "chakki atta", "wheat flour", "wholemeal flour", "godhumai mavu"]
+    },
+    {
+      "canonical": "haldi",
+      "terms": ["turmeric", "turmeric powder", "haldi powder", "manjal powder"]
+    },
+    {
+      "canonical": "jeera",
+      "terms": ["cumin", "cumin seeds", "jeera seeds", "jira", "jeeragam"]
+    },
+    {
+      "canonical": "dhania",
+      "terms": ["coriander", "coriander seeds", "dhania seeds", "kothmir", "malli"]
+    },
+    {
+      "canonical": "poha",
+      "terms": ["flattened rice", "beaten rice", "aval", "chivda", "avalakki"]
+    },
+    {
+      "canonical": "paneer",
+      "terms": ["indian cottage cheese", "cottage cheese", "chhena", "chenna"]
+    },
+    {
+      "canonical": "dal",
+      "terms": ["lentils", "pulses", "daal", "dhal", "paruppu"]
+    },
+    {
+      "canonical": "papad",
+      "terms": ["pappadum", "appalam", "papadum", "poppadom", "appadalu"]
+    },
+    {
+      "canonical": "mamra",
+      "terms": ["puffed rice", "kurmura", "muri", "murmura", "pori"]
+    },
+    {
+      "canonical": "jaggery",
+      "terms": ["gur", "gud", "vellam", "bella", "panela"]
+    },
+    {
+      "canonical": "tamarind",
+      "terms": ["imli", "tamarind paste", "tamarind pulp", "puli"]
+    },
+    {
+      "canonical": "fenugreek",
+      "terms": ["methi", "methi seeds", "fenugreek seeds", "vendhayam"]
+    },
+    {
+      "canonical": "asafoetida",
+      "terms": ["hing", "asafetida", "heeng", "perungayam"]
+    },
+    {
+      "canonical": "cardamom",
+      "terms": ["elaichi", "elachi", "cardamom pods", "yellakai"]
+    },
+    {
+      "canonical": "cloves",
+      "terms": ["laung", "lavang", "clove", "kirambu"]
+    },
+    {
+      "canonical": "cinnamon",
+      "terms": ["dalchini", "dal chini", "cassia", "pattai"]
+    },
+    {
+      "canonical": "black pepper",
+      "terms": ["kali mirch", "pepper", "peppercorn", "milagu"]
+    },
+    {
+      "canonical": "mustard seeds",
+      "terms": ["rai", "sarson", "mustard", "kadugu"]
+    },
+    {
+      "canonical": "fennel",
+      "terms": ["saunf", "fennel seeds", "variyali", "sombu"]
+    },
+    {
+      "canonical": "sesame",
+      "terms": ["til", "sesame seeds", "gingelly", "ellu"]
+    },
+    {
+      "canonical": "coconut",
+      "terms": ["nariyal", "copra", "dried coconut", "thengai"]
+    },
+    {
+      "canonical": "mint",
+      "terms": ["pudina", "mint leaves", "peppermint", "pudhina"]
+    },
+    {
+      "canonical": "curry leaves",
+      "terms": ["kadi patta", "curry patta", "meetha neem", "karivepaku"]
+    },
+    {
+      "canonical": "toor dal",
+      "terms": ["arhar dal", "tuvar dal", "pigeon pea", "thuvaram paruppu"]
+    },
+    {
+      "canonical": "moong dal",
+      "terms": ["mung dal", "green gram dal", "pesara pappu"]
+    },
+    {
+      "canonical": "urad dal",
+      "terms": ["black gram dal", "ulundu paruppu"]
+    },
+    {
+      "canonical": "chana dal",
+      "terms": ["bengal gram dal", "kadalai paruppu"]
+    },
+    {
+      "canonical": "masoor dal",
+      "terms": ["red lentils", "mysore paruppu"]
+    },
+    {
+      "canonical": "sabudana",
+      "terms": ["sago", "tapioca pearls", "javvarisi"]
+    },
+    {
+      "canonical": "basmati rice",
+      "terms": ["basmati chawal", "long grain rice"]
+    },
+    {
+      "canonical": "idli rice",
+      "terms": ["idli chawal", "short grain rice"]
+    },
+    {
+      "canonical": "ghee",
+      "terms": ["clarified butter", "nei"]
+    },
+    {
+      "canonical": "amchur",
+      "terms": ["dried mango powder", "mavinakai pudi"]
+    },
+    {
+      "canonical": "kala namak",
+      "terms": ["black salt", "sanchal"]
+    },
+    {
+      "canonical": "rajma",
+      "terms": ["kidney beans", "red kidney beans"]
+    },
+    {
+      "canonical": "chickpeas",
+      "terms": ["kabuli chana", "chana", "garbanzo beans"]
+    },
+    {
+      "canonical": "kala chana",
+      "terms": ["black chickpeas", "desi chana"]
+    },
+    {
+      "canonical": "sabudana",
+      "terms": ["sago", "tapioca pearls", "javvarisi"]
+    },
+    {
+      "canonical": "sooji",
+      "terms": ["rava", "semolina", "cream of wheat"]
+    },
+    {
+      "canonical": "maida",
+      "terms": ["all purpose flour", "refined flour"]
+    },
+    {
+      "canonical": "ragi",
+      "terms": ["finger millet", "nachni"]
+    },
+    {
+      "canonical": "bajra",
+      "terms": ["pearl millet", "sajje"]
+    },
+    {
+      "canonical": "jowar",
+      "terms": ["sorghum", "jolada"]
+    },
+    {
+      "canonical": "khoya",
+      "terms": ["mawa", "khoa"]
+    },
+    {
+      "canonical": "dahi",
+      "terms": ["yogurt", "curd"]
+    },
+    {
+      "canonical": "lassi",
+      "terms": ["buttermilk drink", "chaas"]
+    },
+    {
+      "canonical": "makhana",
+      "terms": ["fox nuts", "lotus seeds", "gorgon nuts"]
+    },
+    {
+      "canonical": "sev",
+      "terms": ["besan sev", "nylon sev"]
+    },
+    {
+      "canonical": "gathiya",
+      "terms": ["gathia", "ganthia"]
+    },
+    {
+      "canonical": "bhujia",
+      "terms": ["bikaneri bhujia", "sev bhujia"]
+    },
+    {
+      "canonical": "halwa",
+      "terms": ["halva", "sheera"]
+    },
+    {
+      "canonical": "barfi",
+      "terms": ["burfi", "barfee"]
+    },
+    {
+      "canonical": "laddu",
+      "terms": ["ladoo", "ladu"]
+    },
+    {
+      "canonical": "peda",
+      "terms": ["pedha", "mathura peda"]
+    },
+    {
+      "canonical": "rasgulla",
+      "terms": ["rosogolla", "rasagulla"]
+    },
+    {
+      "canonical": "gulab jamun",
+      "terms": ["gulabjam", "kala jamun"]
+    },
+    {
+      "canonical": "jalebi",
+      "terms": ["jilabi", "zulbia"]
+    },
+    {
+      "canonical": "samosa",
+      "terms": ["sambusa", "singara"]
+    },
+    {
+      "canonical": "pakora",
+      "terms": ["pakoda", "bhajji", "bhajiya"]
+    },
+    {
+      "canonical": "kachori",
+      "terms": ["katchori", "lilva kachori"]
+    },
+    {
+      "canonical": "dhokla",
+      "terms": ["dhokra", "khaman"]
+    },
+    {
+      "canonical": "idli",
+      "terms": ["idly", "rice cake"]
+    },
+    {
+      "canonical": "dosa",
+      "terms": ["dosai", "thosai"]
+    },
+    {
+      "canonical": "uttapam",
+      "terms": ["ootthappam", "uthappam"]
+    },
+    {
+      "canonical": "vada",
+      "terms": ["vadai", "medu vada"]
+    },
+    {
+      "canonical": "pav bhaji",
+      "terms": ["pao bhaji", "bhaji pav"]
+    },
+    {
+      "canonical": "chutney",
+      "terms": ["chatni", "chatney"]
+    },
+    {
+      "canonical": "pickle",
+      "terms": ["achar", "achaar", "avakaya"]
+    },
+    {
+      "canonical": "raita",
+      "terms": ["rayta", "pachadi"]
+    },
+    {
+      "canonical": "sambar",
+      "terms": ["sambhar", "saambar"]
+    },
+    {
+      "canonical": "rasam",
+      "terms": ["rasaam", "chaaru"]
+    },
+    {
+      "canonical": "khichdi",
+      "terms": ["khichri", "kichadi"]
+    },
+    {
+      "canonical": "pulao",
+      "terms": ["pilaf", "pulav"]
+    },
+    {
+      "canonical": "biryani",
+      "terms": ["biriyani", "biriani"]
+    },
+    {
+      "canonical": "naan",
+      "terms": ["nan", "kulcha"]
+    },
+    {
+      "canonical": "roti",
+      "terms": ["chapati", "phulka"]
+    },
+    {
+      "canonical": "paratha",
+      "terms": ["parotta", "lachha paratha"]
+    },
+    {
+      "canonical": "poori",
+      "terms": ["puri", "luchi"]
+    },
+    {
+      "canonical": "bhatura",
+      "terms": ["batoora", "bhature"]
+    },
+    {
+      "canonical": "appam",
+      "terms": ["aappam", "hopper"]
+    },
+    {
+      "canonical": "karela",
+      "terms": ["bitter gourd", "bitter melon", "pavakka"]
+    },
+    {
+      "canonical": "bhindi",
+      "terms": ["okra", "ladies finger", "vendakka"]
+    },
+    {
+      "canonical": "brinjal",
+      "terms": ["eggplant", "aubergine", "baingan", "vazhuthananga"]
+    },
+    {
+      "canonical": "lauki",
+      "terms": ["bottle gourd", "calabash", "dudhi", "sorakaya"]
+    },
+    {
+      "canonical": "tinda",
+      "terms": ["apple gourd", "indian squash"]
+    },
+    {
+      "canonical": "turai",
+      "terms": ["ridge gourd", "luffa", "beerakaya"]
+    },
+    {
+      "canonical": "drumstick",
+      "terms": ["moringa", "murungakai"]
+    },
+    {
+      "canonical": "alphonso mango",
+      "terms": ["hapus mango", "alphonso aam"]
+    },
+    {
+      "canonical": "kesar mango",
+      "terms": ["kesar aam", "saffron mango"]
+    },
+    {
+      "canonical": "haden mango",
+      "terms": ["haden aam"]
+    },
+    {
+      "canonical": "guava",
+      "terms": ["amrood", "perakka"]
+    },
+    {
+      "canonical": "papaya",
+      "terms": ["papita", "pappali"]
+    },
+    {
+      "canonical": "lychee",
+      "terms": ["litchi", "lichee"]
+    },
+    {
+      "canonical": "coconut water",
+      "terms": ["nariyal pani", "thengai thanni"]
+    },
+    {
+      "canonical": "incense sticks",
+      "terms": ["agarbatti", "agarbathi"]
+    },
+    {
+      "canonical": "camphor",
+      "terms": ["kapoor", "karpooram"]
+    },
+    {
+      "canonical": "kumkum",
+      "terms": ["kumkuma", "kungumam"]
+    },
+    {
+      "canonical": "sindoor",
+      "terms": ["sindur", "kumkum"]
+    },
+    {
+      "canonical": "rudraksh",
+      "terms": ["rudraksha", "rudraksham"]
+    },
+    {
+      "canonical": "hawan samagri",
+      "terms": ["havana materials", "yagna items"]
+    }
+  ]
+}
